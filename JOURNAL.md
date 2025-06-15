@@ -60,4 +60,9 @@ Rough estimate of cost (not including filament and before tax):
   - [Piezo Buzzer](https://www.amazon.com/dp/B07VK1GJ9X) (was gonna do speakers but realized I'd need an audio file on there which would mean an SD card, not gonna get into that): 1.75 (only costs so much because it's a pack of 10, it actually costs 70 cents per but it was cheaper to buy a pack of 10 than 4 of them)
   - [Battery Pack](https://www.amazon.com/dp/B0DK2SYS2Y): 1.75 (pack of 4)
 
-Committing this now, I've worked a total of 2 hours and 15 minutes so far
+Committing this now, I've worked a total of 2 hours and 15 minutes so far.
+
+
+### June 15, 2025
+
+12:50 PM: I didn't continue working on it yesterday, but I am now! Gonna try to work on CAD, unfortunately TinkerCAD won't fit the bill this time around, so Onshape it is!
