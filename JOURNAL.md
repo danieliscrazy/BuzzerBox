@@ -66,3 +66,5 @@ Committing this now, I've worked a total of 2 hours and 15 minutes so far.
 ### June 15, 2025
 
 12:50 PM: I didn't continue working on it yesterday, but I am now! Gonna try to work on CAD, unfortunately TinkerCAD won't fit the bill this time around, so Onshape it is!
+
+1:30 PM: Stopped working. Kinda sick and I'm not feeling great. Diagram for the button wasn't accurate, so I can't recreate it. Not sure what to do. Been working for half an hour.
